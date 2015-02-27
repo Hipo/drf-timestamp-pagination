@@ -19,6 +19,7 @@ class CommentsView(TimestampPaginationMixin, ListCreateAPIView):  # Add mixin to
 ```
 
 Done.
+
 `paginate_by`, `paginate_by_param`, `max_paginate_by` also applies to TimestampPaginationSerializer.
 
 ## Sample View Response
