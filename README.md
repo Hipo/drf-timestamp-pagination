@@ -23,11 +23,11 @@ Done.
 
 ## Sample View Response
 
-```JSON
+```
 {
     "next": "?next=1425028897.60",
     "results": [
-        < result set >
+        { result set }
     ]
 }
 ```
