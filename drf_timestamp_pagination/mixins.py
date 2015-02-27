@@ -21,4 +21,4 @@ class TimestampPaginationMixin(object):
         next_timestamp_query_param = self.request.query_params.get(self.next_timestamp_kwarg)
         next_timestamp = next_timestamp_kwarg or next_timestamp_query_param
 
-        return paginator.page(next_timestamp)
+        return paginator.page(timestamp=next_timestamp)
