@@ -1,0 +1,2 @@
+django-timestamp-paginator
+djangorestframework>=3.0.0
