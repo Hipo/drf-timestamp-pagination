@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='drf-timestamp-pagination',
-    version='0.0.3',
+    version='0.1',
     description='DRF Pagination to work with Timestamp Paginator.',
     packages=['drf_timestamp_pagination', ],
     license='see licence on https://github.com/umutbozkurt/drf-timestamp-pagination',
