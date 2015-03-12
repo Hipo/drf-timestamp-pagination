@@ -46,7 +46,8 @@ Done.
 
 ```
 {
-    "next": "?next=1425028897.60",
+    "next": "https://api.example.com/feed/?next=1425028897.60",
+    "next_max_timestamp" : 1425028897.60,
     "results": [
         { result set }
     ]
