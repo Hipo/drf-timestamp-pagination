@@ -1,5 +1,5 @@
 # DRF Timestamp Pagination
-Pagination class for [Django Rest Framework](https://github.com/tomchristie/django-rest-framework) 
+Pagination serializer for [Django Rest Framework](https://github.com/tomchristie/django-rest-framework) 
 that uses [Timestamp Paginator](https://github.com/hipo/django-timestamp-paginator)
 
 ## Why we needed this?
